@@ -88,4 +88,18 @@ All stock prices and company details were fetched from **Yahoo Finance** using *
 
 **- Dynamic Indicators →** Color-coded P/L and arrows for positive/negative trends
 
+---
+
+## How to update with new data
+
+**1.** Download updated CSVs from Yahoo Finance.
+
+**2.** Import them into Google Sheets and clean if needed.
+
+**3.** Export to Excel and replace old data.
+
+**4.** Open Portfolio_Dashboard.xlsx → **Refresh All.**
+
+**5.** Dashboard updates automatically.
+
 
