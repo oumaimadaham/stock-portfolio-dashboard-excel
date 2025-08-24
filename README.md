@@ -4,7 +4,7 @@ A complete, step-by-step data analyst case study that turns stock price data ext
 **Goal**: Provide a reproducible blueprint that anyone can clone, open in Excel, refresh, and immediately see their portfolio KPIs.
 ---
 
-## Business problem
+## Business Problem
 Investors often need a clean way to track portfolio performance and stock movements.
 
 The dashboard answers key questions:
@@ -24,6 +24,32 @@ The dashboard answers key questions:
 
 You can replace the sample exports with your own and press Data ▸ Refresh All in Excel.
 
-## Data source
+## Data Source
 
 All stock prices and company details were fetched from **Yahoo Finance** using **Google Sheets** functions and then exported to Excel.
+
+**1.** Search for a company.
+
+**2.** Go to Historical Data.
+
+**3.** Choose a date range.
+
+**4.** Click Download CSV.
+
+## Data Model
+|Coloumn Name|Type|Description|
+|-----------|---------|---------|
+|Company|
+|Qty|
+|Purchase Price|
+|Investment|
+|Purchase Date|
+|Currrent Price|
+|Prev Price|
+|Today's Diff|
+|Prev Value|
+|Current Value|
+|Today Gain|
+|Overall Profit/Loss|
+|Profit/Loss %|
+|Sector|
