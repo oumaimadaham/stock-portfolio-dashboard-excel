@@ -1,7 +1,8 @@
 # Stock Portfolio Dashboard (Excel)
 A complete, step-by-step data analyst case study that turns stock price data extracted from **Yahoo Finance** via **Google Sheets** into a polished Excel dashboard for tracking portfolio performance, sector exposure, and daily movers.
 
-**Goal**: Provide a reproducible blueprint that anyone can clone, open in Excel, refresh, and immediately see their portfolio KPIs.
+**Goal:** Provide a reproducible blueprint that anyone can clone, open in Excel, refresh, and immediately see their portfolio KPIs.
+
 ---
 
 ## Business Problem
