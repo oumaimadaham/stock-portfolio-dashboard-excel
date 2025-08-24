@@ -39,17 +39,17 @@ All stock prices and company details were fetched from **Yahoo Finance** using *
 ## Data Model
 |Coloumn Name|Type|Description|
 |-----------|---------|---------|
-|Company|Text|
-|Qty|Number|
-|Purchase Price|Number|
-|Investment|Number|
-|Purchase Date|Date|
-|Currrent Price|Number|
-|Prev Price|Number|
-|Today's Diff|Number|
-|Prev Value|Number|
-|Current Value|Number|
-|Today Gain|Number|
-|Overall Profit/Loss|Number|
-|Profit/Loss %|Percentage|
-|Sector|Text|
+|Company|Text|Company Name|
+|Qty|Number|Number of Shares Purchased|
+|Purchase Price|Number|Price Per Share at The Time of purchase|
+|Investment|Number|Total Investment Amount Per Company|
+|Purchase Date|Date|The Date Of Stock Purchase|
+|Current Price|Number|Latest Stock Price from Yahoo Finance|
+|Prev Price|Number|Previous Closing Price|
+|Today's Diff|Number|Difference between Current and Previous Price|
+|Prev Value|Number|Previous day’s portfolio value|
+|Current Value|Number|Current Portfolio Value|
+|Today Gain|Number|Profit/loss for the day|
+|Overall Profit/Loss|Number|Total profit or loss|
+|Profit/Loss %|Percentage|Percentage gain/loss|
+|Sector|Text|Sector classification of the company|
