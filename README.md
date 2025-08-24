@@ -74,3 +74,18 @@ All stock prices and company details were fetched from **Yahoo Finance** using *
 
 - Portfolio Profit/Loss % = **`Σ Overall P/L ÷ Σ Investment`**
 
+## Dashboard features
+*Dashboard Preview:*  
+![Dashboard](Stock_Portfolio.png)
+
+**- Portfolio KPIs →** Total Investment, Current Value, Profit/Loss, P/L %
+
+**- Top Gainers & Losers →** Based on Today’s Diff and Today Gain
+
+**- Sector Analysis →** Allocation and performance per sector
+
+**- Profit Distribution →** Visualizes P/L across companies
+
+**- Dynamic Indicators →** Color-coded P/L and arrows for positive/negative trends
+
+
