@@ -53,3 +53,24 @@ All stock prices and company details were fetched from **Yahoo Finance** using *
 |Overall Profit/Loss|Number|Total profit or loss|
 |Profit/Loss %|Percentage|Percentage gain/loss|
 |Sector|Text|Sector classification of the company|
+
+## Metric definitions
+
+- Investment = **`Qty * Purchase Price`**
+
+- Current Value = **`Qty * Current Price`**
+
+- Prev Value = **`Qty * Prev Price`**
+
+- Today's Diff =**` Current Price − Prev Price`**
+
+- Today Gain = **`Qty * Today's Diff`**
+
+- Overall Profit/Loss = **`Current Value − Investment`**
+
+- Profit/Loss % = **`Overall Profit/Loss ÷ Investment`**
+
+- Portfolio Value = **`Σ Current Value`**
+
+- Portfolio Profit/Loss % = **`Σ Overall P/L ÷ Σ Investment`**
+
